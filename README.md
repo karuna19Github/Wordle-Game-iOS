@@ -1,5 +1,8 @@
 # Wordle-Game-iOS
 
+https://github.com/karuna19Github/Wordle-Game-iOS
+
+
 Wordle is the second game that I made using SwiftUI. The game theme is animal , in this game player can choose how many letters word and what level they want to play ,the words between four, five or six letters word and three level (Hard ,Medium ,Easy) . 
 
 
